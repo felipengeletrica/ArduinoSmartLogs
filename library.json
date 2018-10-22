@@ -1,0 +1,28 @@
+{
+  "name": "esplogs",
+  "keywords": "logs, debug, wifi",
+  "description": "Simple library for logs in WIFI modules ESP8266 and others",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/felipengeletrica/ESP_LOGS.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Felipe Vargas",
+      "email": "felipeng.eletrica@gmail.com",
+      "url": "https://github.com/felipengeletrica",
+      "maintainer": true
+    }
+  ],
+  "dependencies":
+  {
+    "name": "Arduino",
+    "authors": "Paul Stoffregen",
+    "frameworks": "arduino"
+  },
+  "version": "3.7.7",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
