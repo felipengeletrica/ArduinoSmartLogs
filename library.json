@@ -1,6 +1,6 @@
 {
-  "name": "esplogs",
-  "keywords": "logs, debug, wifi",
+  "name": "Library for serial debug for modules ESP and Arduino",
+  "keywords": "logs, debug, dev, serial, Arduino espe",
   "description": "Simple library for logs in WIFI modules ESP8266 and others",
   "repository":
   {
