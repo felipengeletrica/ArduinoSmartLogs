@@ -1,28 +1,17 @@
 {
-  "name": "Library for serial debug for modules ESP and Arduino",
-  "keywords": "logs, debug, dev, serial, Arduino espe",
-  "description": "Simple library for logs in WIFI modules ESP8266 and others",
-  "repository":
-  {
-    "type": "git",
-    "url": "https://github.com/felipengeletrica/ESP_LOGS.git"
-  },
-  "authors":
-  [
-    {
-      "name": "Felipe Vargas",
-      "email": "felipeng.eletrica@gmail.com",
-      "url": "https://github.com/felipengeletrica",
-      "maintainer": true
-    }
-  ],
-  "dependencies":
-  {
-    "name": "Arduino",
-    "authors": "Paul Stoffregen",
-    "frameworks": "arduino"
-  },
-  "version": "3.7.7",
-  "frameworks": "arduino",
-  "platforms": "*"
+    "name": "Serial Logs ESP",
+    "keywords": "Ethernet, mqtt, m2m, iot",
+    "description": "This library allows easy debugging of your programs by indicating the line in which the prints are. So the process of debugging is even easier",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/felipengeletrica/ESP_LOGS.git"
+    },
+    "version": "0.0.2",
+    "exclude": "tests",
+    "examples": "src/",
+    "frameworks": "arduino",
+    "platforms": [
+        "atmelavr",
+        "espressif"
+    ]
 }
