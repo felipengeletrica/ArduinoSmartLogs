@@ -1,17 +1,23 @@
 {
-    "name": "Serial Logs ESP",
-    "keywords": "Ethernet, mqtt, m2m, iot",
+    "authors": {
+        "name": "Felipe Vargas",
+        "url": "https://github.com/felipengeletrica"
+    },
     "description": "This library allows easy debugging of your programs by indicating the line in which the prints are. So the process of debugging is even easier",
+    "examples": [
+        "https://github.com/felipengeletrica/ESP_LOGS/tree/master/src"
+    ],
+    "frameworks": "arduino",
+    "keywords": [
+        "debug",
+        "serial",
+        "arduino",
+        "developer"
+    ],
+    "name": "Serial logs",
+    "platforms": "Arduino",
     "repository": {
         "type": "git",
         "url": "https://github.com/felipengeletrica/ESP_LOGS.git"
-    },
-    "version": "0.0.2",
-    "exclude": "tests",
-    "examples": "src/",
-    "frameworks": "arduino",
-    "platforms": [
-        "atmelavr",
-        "espressif"
-    ]
+    }
 }
