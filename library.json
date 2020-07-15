@@ -16,6 +16,7 @@
         "developer"
     ],
     "name": "Arduino Smart Logs",
+    "version": "1.0.1",
     "platforms": "Arduino",
     "repository": {
         "type": "git",
