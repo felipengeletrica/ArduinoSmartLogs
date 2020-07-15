@@ -18,6 +18,6 @@
     "platforms": "Arduino",
     "repository": {
         "type": "git",
-        "url": "https://github.com/felipengeletrica/ESP_LOGS.git"
+        "url": "https://github.com/felipengeletrica/ArduinoSmartLogs.git"
     }
 }
