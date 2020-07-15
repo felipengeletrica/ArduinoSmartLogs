@@ -1,25 +1,22 @@
 {
-    "authors": {
-        "name": "Felipe Vargas",
-        "url": "https://github.com/felipengeletrica"
-    },
-    "description": "This library allows easy debugging of your programs by indicating the line in which the prints are. So the process of debugging is even easier",
-    "examples": [
-        "https://github.com/felipengeletrica/ArduinoSmartLogs/tree/master/src"
-    ],
-    "frameworks": "arduino",
-    "version": "2.0.0",
-    "keywords": [
-        "debug",
-        "serial",
-        "arduino",
-        "developer"
-    ],
-    "name": "Arduino Smart Logs",
-    "version": "1.0.1",
-    "platforms": "Arduino",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/felipengeletrica/ArduinoSmartLogs.git"
+  "name": “Smart Arduino logs”,
+  "keywords": “Serial universal Arduino logs”,
+  "description": “This library allows easy debugging of your programs by indicating the line in which the prints are. So the process of debugging is even easier”,
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/felipengeletrica/ArduinoSmartLogs.git"
+  },
+  "authors":
+  [
+    {
+      "name": “Felipe Vargas”,
+      "email": “felipeng.eletrica@gmail.com”,
+      "url": "https://github.com/felipengeletrica",
+      "maintainer": true
     }
+  ],
+  "version": “2.0.0,
+  "frameworks": "arduino",
+  "platforms": "*"
 }
