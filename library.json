@@ -5,7 +5,7 @@
     },
     "description": "This library allows easy debugging of your programs by indicating the line in which the prints are. So the process of debugging is even easier",
     "examples": [
-        "https://github.com/felipengeletrica/ESP_LOGS/tree/master/src"
+        "https://github.com/felipengeletrica/ArduinoSmartLogs/tree/master/src"
     ],
     "frameworks": "arduino",
     "keywords": [
@@ -14,7 +14,7 @@
         "arduino",
         "developer"
     ],
-    "name": "Serial logs",
+    "name": "Arduino Smart Logs",
     "platforms": "Arduino",
     "repository": {
         "type": "git",
